@@ -1,2 +1,2 @@
 # unity_sandtable
- VR project - Sandtable Modef
+基于体感交互的虚拟沙盘
